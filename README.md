@@ -67,7 +67,7 @@
 **方式一：克隆后复制**
 
 ```bash
-git clone https://github.com/<your-name>/windows-device-troubleshoot.git
+git clone https://github.com/Jacksonlan/windows-device-troubleshoot.git
 cp -r windows-device-troubleshoot/windows-device-troubleshoot ~/.workbuddy/skills/
 ```
 
